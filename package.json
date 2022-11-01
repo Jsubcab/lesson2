@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Jsubcab/lesson2#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0"
   },
   "dependencies": {
